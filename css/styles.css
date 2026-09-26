@@ -8,7 +8,7 @@
   --green-mid: #3E6753;
   --amber: #A6742E;
   --amber-soft: #EFE0C4;
-  --card-shadow: 0 1px 2px rgba(29,36,32,0.06);
+  --card-shadow: 0 1px 2px rgba(29,36,32,0.1);
   box-sizing: border-box;
   padding-top: env(safe-area-inset-top, 0px);
   padding-bottom: env(safe-area-inset-bottom, 0px);
@@ -18,13 +18,13 @@
     --bg: #121812;
     --bg-raised: #1A2118;
     --ink: #EAEFE8;
-    --ink-soft: #AAB6A9;
+    --ink-soft: #beccbc;
     --line: #2B342A;
     --green-deep: #97d8b4;
-    --green-mid: #436e55;
+    --green-mid: #345c44;
     --amber: #daa94e;
     --amber-soft: #2A2618;
-    --card-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    --card-shadow: 0 1px 2px rgba(0,0,0,0.4);
   }
 }
 :root[data-theme="dark"] {
